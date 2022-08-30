@@ -1,0 +1,5 @@
+Beware, however: just because you can crawl the web doesn’t mean that you always
+should. The scrapers used in previous examples work great in situations where all the
+data you need is on a single page. With web crawlers, you must be extremely consci‐
+entious of how much bandwidth you are using and make every effort to determine
+whether there’s a way to make the target server’s load easier

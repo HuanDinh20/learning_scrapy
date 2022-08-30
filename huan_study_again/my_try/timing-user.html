@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Akselos Dashboard Login</title>
+         
+    <meta name="description" content="Akselos Dashboard">
+    <meta name="author" content="Akselos">
+    <meta name="viewport" content="initial-scale=1.0,user-scalable=no,maximum-scale=1,width=device-width">
+    <meta name="viewport" content="initial-scale=1.0,user-scalable=no,maximum-scale=1" media="(device-height: 568px)">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="HandheldFriendly" content="True">
+    <meta http-equiv="cleartype" content="on"> 
+        <link rel="stylesheet" href="/static/semantic/dist/semantic.min.css"/>
+        <link rel="icon" type="image/png" href="/static/favicon.png" />
+        <script src="https://cdn.polyfill.io/v2/polyfill.js"></script>
+        <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+    </head>
+    <body>
+        <div id="root"></div>
+        <script src="/static/bundle/factory.bundle.js"></script>
+        <script>
+            window.onload = function () {
+                factory.render_login.apply(null, []);
+            };
+        </script>
+    </body>
+</html>

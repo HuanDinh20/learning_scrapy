@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+<item><Title><value>Example Domain</value></Title></item>
+</items><?xml version="1.0" encoding="utf-8"?>
+<items>
+<item><Ex1><value>&lt;p&gt;This domain is for use in illustrative examples in documents. You may use this
+    domain in literature without prior coordination or asking for permission.&lt;/p&gt;
+    &lt;p&gt;&lt;a href="https://www.iana.org/domains/example"&gt;More information...&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+ &lt;p&gt;&lt;a href="https://www.iana.org/domains/example"&gt;More information...&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</value></Ex1><Ex2><value>This domain is for use in illustrative examples in documents, You may use this
+    domain in literature without prior coordination or asking for permission,</value></Ex2><Ex3><value>This domain is for use in illustrative examples in documents. You may use this
+    domain in literature without prior coordination or asking for permission.</value></Ex3></item>
+</items>

@@ -1,0 +1,2423 @@
+[
+    {
+        "Description": "train-3",
+        "Elapsed Time": "-",
+        "Job ID": "train_aks-d5711a57914a44bfbf903071cc2fb1d7",
+        "Start Time": "6/15/2022",
+        "State": "Running",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-d5711a57914a44bfbf903071cc2fb1d7",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "29 m, 12 s",
+        "Job ID": "train_aks-d5711a57914a44bfbf903071cc2fb1d7",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "1 s",
+        "Job ID": "train_aks-d5711a57914a44bfbf903071cc2fb1d7",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-e1c69e69ef7d4508a58daab9edc5f094",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "10 m, 0 s",
+        "Job ID": "train_aks-e1c69e69ef7d4508a58daab9edc5f094",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "1 s",
+        "Job ID": "train_aks-e1c69e69ef7d4508a58daab9edc5f094",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "10 m, 35 s",
+        "Job ID": "train_aks-e1c69e69ef7d4508a58daab9edc5f094",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "3 s",
+        "Job ID": "train_aks-46e8a8a6b7534b84b6416f9444804571",
+        "Start Time": "6/15/2022",
+        "State": "Failure",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "7 s",
+        "Job ID": "train_aks-29dd2b9901d047aca220e93d033094aa",
+        "Start Time": "6/15/2022",
+        "State": "Failure",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "3 s",
+        "Job ID": "train_aks-35f2adebd98b4442ba3e321ab4f1677e",
+        "Start Time": "6/15/2022",
+        "State": "Failure",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "3 s",
+        "Job ID": "train_aks-36dbfb5618eb40bfbe6b184152c24c3e",
+        "Start Time": "6/15/2022",
+        "State": "Failure",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-d49ee8c7e92d4bdda25e1918bdb95e59",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "24 m, 53 s",
+        "Job ID": "train_aks-d49ee8c7e92d4bdda25e1918bdb95e59",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-d49ee8c7e92d4bdda25e1918bdb95e59",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "25 m, 31 s",
+        "Job ID": "train_aks-d49ee8c7e92d4bdda25e1918bdb95e59",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "7 m, 50 s",
+        "Job ID": "train_aks-bab37d2ffd114d578771b683945bc9c9",
+        "Start Time": "Failure",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-bab37d2ffd114d578771b683945bc9c9",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "0 s",
+        "Job ID": "train_aks-f93fa7742fbe460bbc53185d82f8013a",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "6 m, 31 s",
+        "Job ID": "train_aks-f93fa7742fbe460bbc53185d82f8013a",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-f93fa7742fbe460bbc53185d82f8013a",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "11 m, 18 s",
+        "Job ID": "train_aks-f93fa7742fbe460bbc53185d82f8013a",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "0 s",
+        "Job ID": "train_aks-f978a8aaa18f4dff940f6bf75801fc6a",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "6 m, 41 s",
+        "Job ID": "train_aks-f978a8aaa18f4dff940f6bf75801fc6a",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-f978a8aaa18f4dff940f6bf75801fc6a",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "10 m, 56 s",
+        "Job ID": "train_aks-f978a8aaa18f4dff940f6bf75801fc6a",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "1 s",
+        "Job ID": "train_aks-ecd2eaf80445476593999d3f41c17bc2",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "54 s",
+        "Job ID": "train_aks-ecd2eaf80445476593999d3f41c17bc2",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "3 s",
+        "Job ID": "train_aks-ecd2eaf80445476593999d3f41c17bc2",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "1 m, 17 s",
+        "Job ID": "train_aks-ecd2eaf80445476593999d3f41c17bc2",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-2d7f7f23326840f3a8cd33913f08f5e3",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "1 m, 1 s",
+        "Job ID": "train_aks-2d7f7f23326840f3a8cd33913f08f5e3",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-2d7f7f23326840f3a8cd33913f08f5e3",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "53 s",
+        "Job ID": "train_aks-2d7f7f23326840f3a8cd33913f08f5e3",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "0 s",
+        "Job ID": "train_aks-faa637232fbe482391c6f979438b2d1b",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "2 m, 22 s",
+        "Job ID": "train_aks-faa637232fbe482391c6f979438b2d1b",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-faa637232fbe482391c6f979438b2d1b",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "2 m, 12 s",
+        "Job ID": "train_aks-faa637232fbe482391c6f979438b2d1b",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-4de11586bcfc4e7b9485d8df0a3705c5",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "1 m, 2 s",
+        "Job ID": "train_aks-4de11586bcfc4e7b9485d8df0a3705c5",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "1 s",
+        "Job ID": "train_aks-4de11586bcfc4e7b9485d8df0a3705c5",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "54 s",
+        "Job ID": "train_aks-4de11586bcfc4e7b9485d8df0a3705c5",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "0 s",
+        "Job ID": "train_aks-8dd021c14ba147aa8f600906725b5528",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "2 m, 24 s",
+        "Job ID": "train_aks-8dd021c14ba147aa8f600906725b5528",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-8dd021c14ba147aa8f600906725b5528",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "2 m, 17 s",
+        "Job ID": "train_aks-8dd021c14ba147aa8f600906725b5528",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "1 s",
+        "Job ID": "train_aks-9a9f7f471f7f4c51b1d00e1803da0161",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "60 s",
+        "Job ID": "train_aks-9a9f7f471f7f4c51b1d00e1803da0161",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "0 s",
+        "Job ID": "train_aks-9a9f7f471f7f4c51b1d00e1803da0161",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "54 s",
+        "Job ID": "train_aks-9a9f7f471f7f4c51b1d00e1803da0161",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-07cc8f91e107441dbdda1bf058e9b881",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "2 m, 22 s",
+        "Job ID": "train_aks-07cc8f91e107441dbdda1bf058e9b881",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "0 s",
+        "Job ID": "train_aks-07cc8f91e107441dbdda1bf058e9b881",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "2 m, 19 s",
+        "Job ID": "train_aks-07cc8f91e107441dbdda1bf058e9b881",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-0c3e26ae0172497f8836528af31d4f84",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "25 s",
+        "Job ID": "train_aks-0c3e26ae0172497f8836528af31d4f84",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "0 s",
+        "Job ID": "train_aks-0c3e26ae0172497f8836528af31d4f84",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "22 s",
+        "Job ID": "train_aks-0c3e26ae0172497f8836528af31d4f84",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "0 s",
+        "Job ID": "train_aks-9ff9e295dfd640cfa6ba69f4174cc0a7",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "2 m, 17 s",
+        "Job ID": "train_aks-9ff9e295dfd640cfa6ba69f4174cc0a7",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "1 s",
+        "Job ID": "train_aks-9ff9e295dfd640cfa6ba69f4174cc0a7",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "2 m, 17 s",
+        "Job ID": "train_aks-9ff9e295dfd640cfa6ba69f4174cc0a7",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "1 s",
+        "Job ID": "train_aks-ace08dc322b146458800ff140afaf210",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "59 s",
+        "Job ID": "train_aks-ace08dc322b146458800ff140afaf210",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "0 s",
+        "Job ID": "train_aks-ace08dc322b146458800ff140afaf210",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "54 s",
+        "Job ID": "train_aks-ace08dc322b146458800ff140afaf210",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-a5085bef176e418c94aaa4b7d58dcfb2",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "2 m, 23 s",
+        "Job ID": "train_aks-a5085bef176e418c94aaa4b7d58dcfb2",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "0 s",
+        "Job ID": "train_aks-a5085bef176e418c94aaa4b7d58dcfb2",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "2 m, 15 s",
+        "Job ID": "train_aks-a5085bef176e418c94aaa4b7d58dcfb2",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "0 s",
+        "Job ID": "train_aks-f26ce79d089542beaa7f9723f12a3a94",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "60 s",
+        "Job ID": "train_aks-f26ce79d089542beaa7f9723f12a3a94",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-f26ce79d089542beaa7f9723f12a3a94",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "52 s",
+        "Job ID": "train_aks-f26ce79d089542beaa7f9723f12a3a94",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "1 s",
+        "Job ID": "train_aks-c419d24e6a874bc696769397ac2aa968",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "2 m, 17 s",
+        "Job ID": "train_aks-c419d24e6a874bc696769397ac2aa968",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-c419d24e6a874bc696769397ac2aa968",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "2 m, 12 s",
+        "Job ID": "train_aks-c419d24e6a874bc696769397ac2aa968",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-cc603305c63d4608b2a4e5386667ac79",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "1 m, 2 s",
+        "Job ID": "train_aks-cc603305c63d4608b2a4e5386667ac79",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "1 s",
+        "Job ID": "train_aks-cc603305c63d4608b2a4e5386667ac79",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "53 s",
+        "Job ID": "train_aks-cc603305c63d4608b2a4e5386667ac79",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-295abf018a46452cb076b6f7a971dbf5",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "2 m, 24 s",
+        "Job ID": "train_aks-295abf018a46452cb076b6f7a971dbf5",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-295abf018a46452cb076b6f7a971dbf5",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "2 m, 12 s",
+        "Job ID": "train_aks-295abf018a46452cb076b6f7a971dbf5",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "0 s",
+        "Job ID": "train_aks-71df1b24759149be9673f104d38e02ae",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "1 m, 1 s",
+        "Job ID": "train_aks-71df1b24759149be9673f104d38e02ae",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-71df1b24759149be9673f104d38e02ae",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "52 s",
+        "Job ID": "train_aks-71df1b24759149be9673f104d38e02ae",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "1 s",
+        "Job ID": "train_aks-50db31cc5e2942d3be9f510a39a34931",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "2 m, 18 s",
+        "Job ID": "train_aks-50db31cc5e2942d3be9f510a39a34931",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-50db31cc5e2942d3be9f510a39a34931",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "2 m, 8 s",
+        "Job ID": "train_aks-50db31cc5e2942d3be9f510a39a34931",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-1ab9977479684c4392e44d491d502ecb",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "60 s",
+        "Job ID": "train_aks-1ab9977479684c4392e44d491d502ecb",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "1 s",
+        "Job ID": "train_aks-1ab9977479684c4392e44d491d502ecb",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "52 s",
+        "Job ID": "train_aks-1ab9977479684c4392e44d491d502ecb",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-5dd5091029584f12a9f6d497fff30ad9",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "2 m, 21 s",
+        "Job ID": "train_aks-5dd5091029584f12a9f6d497fff30ad9",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "1 s",
+        "Job ID": "train_aks-5dd5091029584f12a9f6d497fff30ad9",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "2 m, 10 s",
+        "Job ID": "train_aks-5dd5091029584f12a9f6d497fff30ad9",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-fa1ff2f594344c3faf3e8be7429946d4",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "60 s",
+        "Job ID": "train_aks-fa1ff2f594344c3faf3e8be7429946d4",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-fa1ff2f594344c3faf3e8be7429946d4",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "50 s",
+        "Job ID": "train_aks-fa1ff2f594344c3faf3e8be7429946d4",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "0 s",
+        "Job ID": "train_aks-0a0c9bf1f43d40309b5b49fb49c17d05",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "1 m, 49 s",
+        "Job ID": "train_aks-0a0c9bf1f43d40309b5b49fb49c17d05",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-0a0c9bf1f43d40309b5b49fb49c17d05",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "1 m, 37 s",
+        "Job ID": "train_aks-0a0c9bf1f43d40309b5b49fb49c17d05",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "1 s",
+        "Job ID": "train_aks-e46846d4488d448db304f308742fdead",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "2 m, 22 s",
+        "Job ID": "train_aks-e46846d4488d448db304f308742fdead",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "1 s",
+        "Job ID": "train_aks-e46846d4488d448db304f308742fdead",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "2 m, 11 s",
+        "Job ID": "train_aks-e46846d4488d448db304f308742fdead",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-9767aa02557f45759763c7fa74bbaaa6",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "1 m, 47 s",
+        "Job ID": "train_aks-9767aa02557f45759763c7fa74bbaaa6",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "0 s",
+        "Job ID": "train_aks-9767aa02557f45759763c7fa74bbaaa6",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "1 m, 40 s",
+        "Job ID": "train_aks-9767aa02557f45759763c7fa74bbaaa6",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "0 s",
+        "Job ID": "train_aks-fac57eedd1474e52b9a897afbdb315ca",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "2 m, 20 s",
+        "Job ID": "train_aks-fac57eedd1474e52b9a897afbdb315ca",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "0 s",
+        "Job ID": "train_aks-fac57eedd1474e52b9a897afbdb315ca",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "2 m, 12 s",
+        "Job ID": "train_aks-fac57eedd1474e52b9a897afbdb315ca",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "1 s",
+        "Job ID": "train_aks-634e5212dde64b648cfdf414474bc17d",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "5 m, 33 s",
+        "Job ID": "train_aks-634e5212dde64b648cfdf414474bc17d",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-634e5212dde64b648cfdf414474bc17d",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "5 m, 13 s",
+        "Job ID": "train_aks-634e5212dde64b648cfdf414474bc17d",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-7a1af967c0364052b6534fd1f6f11f0d",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "8 m, 31 s",
+        "Job ID": "train_aks-7a1af967c0364052b6534fd1f6f11f0d",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "1 s",
+        "Job ID": "train_aks-7a1af967c0364052b6534fd1f6f11f0d",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "8 m, 0 s",
+        "Job ID": "train_aks-7a1af967c0364052b6534fd1f6f11f0d",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-a4a0d5f457374496b35c775a05528b5e",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "20 m, 16 s",
+        "Job ID": "train_aks-a4a0d5f457374496b35c775a05528b5e",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "1 s",
+        "Job ID": "train_aks-a4a0d5f457374496b35c775a05528b5e",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "19 m, 24 s",
+        "Job ID": "train_aks-a4a0d5f457374496b35c775a05528b5e",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-ccc83268d422436d91dd20a98294de83",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "8 m, 27 s",
+        "Job ID": "train_aks-ccc83268d422436d91dd20a98294de83",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-ccc83268d422436d91dd20a98294de83",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "8 m, 9 s",
+        "Job ID": "train_aks-ccc83268d422436d91dd20a98294de83",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "0 s",
+        "Job ID": "train_aks-0e0ebecca2d9408a9418f6c9be640adb",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "20 m, 36 s",
+        "Job ID": "train_aks-0e0ebecca2d9408a9418f6c9be640adb",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "1 s",
+        "Job ID": "train_aks-0e0ebecca2d9408a9418f6c9be640adb",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "19 m, 41 s",
+        "Job ID": "train_aks-0e0ebecca2d9408a9418f6c9be640adb",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-8b8ba2b180134ecf806395cd5dca43fc",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "8 m, 41 s",
+        "Job ID": "train_aks-8b8ba2b180134ecf806395cd5dca43fc",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "1 s",
+        "Job ID": "train_aks-8b8ba2b180134ecf806395cd5dca43fc",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "8 m, 14 s",
+        "Job ID": "train_aks-8b8ba2b180134ecf806395cd5dca43fc",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "1 s",
+        "Job ID": "train_aks-04e3b7288b5c445692e15805b4ba6f5d",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "20 m, 11 s",
+        "Job ID": "train_aks-04e3b7288b5c445692e15805b4ba6f5d",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-04e3b7288b5c445692e15805b4ba6f5d",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "19 m, 31 s",
+        "Job ID": "train_aks-04e3b7288b5c445692e15805b4ba6f5d",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-d2c7454b22ec4fa5aaa1bd8c1bf69aaf",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "3 m, 48 s",
+        "Job ID": "train_aks-d2c7454b22ec4fa5aaa1bd8c1bf69aaf",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "3 s",
+        "Job ID": "train_aks-d2c7454b22ec4fa5aaa1bd8c1bf69aaf",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "3 m, 31 s",
+        "Job ID": "train_aks-d2c7454b22ec4fa5aaa1bd8c1bf69aaf",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-1043f52611de49d9803757cab0a0d5cc",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "19 m, 49 s",
+        "Job ID": "train_aks-1043f52611de49d9803757cab0a0d5cc",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "1 s",
+        "Job ID": "train_aks-1043f52611de49d9803757cab0a0d5cc",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "19 m, 52 s",
+        "Job ID": "train_aks-1043f52611de49d9803757cab0a0d5cc",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "0 s",
+        "Job ID": "train_aks-ef98a12c9ade44aa86e279fa6f0d76a4",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "8 m, 28 s",
+        "Job ID": "train_aks-ef98a12c9ade44aa86e279fa6f0d76a4",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "1 s",
+        "Job ID": "train_aks-ef98a12c9ade44aa86e279fa6f0d76a4",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "8 m, 14 s",
+        "Job ID": "train_aks-ef98a12c9ade44aa86e279fa6f0d76a4",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "1 s",
+        "Job ID": "train_aks-9f672daee8e04ab4be26374a74e3f39d",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "20 m, 0 s",
+        "Job ID": "train_aks-9f672daee8e04ab4be26374a74e3f39d",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "0 s",
+        "Job ID": "train_aks-9f672daee8e04ab4be26374a74e3f39d",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "19 m, 45 s",
+        "Job ID": "train_aks-9f672daee8e04ab4be26374a74e3f39d",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "0 s",
+        "Job ID": "train_aks-e20bea6494f649ae95b79d7e27427dca",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "8 m, 33 s",
+        "Job ID": "train_aks-e20bea6494f649ae95b79d7e27427dca",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "0 s",
+        "Job ID": "train_aks-e20bea6494f649ae95b79d7e27427dca",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "8 m, 21 s",
+        "Job ID": "train_aks-e20bea6494f649ae95b79d7e27427dca",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-e1f5a73c0ac940659ac358fb074d9815",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "19 m, 35 s",
+        "Job ID": "train_aks-e1f5a73c0ac940659ac358fb074d9815",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "0 s",
+        "Job ID": "train_aks-e1f5a73c0ac940659ac358fb074d9815",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "19 m, 31 s",
+        "Job ID": "train_aks-e1f5a73c0ac940659ac358fb074d9815",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "0 s",
+        "Job ID": "train_aks-6452e4dae3c1483a9bb91262df2e9ef9",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "8 m, 46 s",
+        "Job ID": "train_aks-6452e4dae3c1483a9bb91262df2e9ef9",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "0 s",
+        "Job ID": "train_aks-6452e4dae3c1483a9bb91262df2e9ef9",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "8 m, 14 s",
+        "Job ID": "train_aks-6452e4dae3c1483a9bb91262df2e9ef9",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "3 s",
+        "Job ID": "train_aks-b0f4347a9b114dc8b62739f30d4e5f98",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "20 m, 19 s",
+        "Job ID": "train_aks-b0f4347a9b114dc8b62739f30d4e5f98",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "1 s",
+        "Job ID": "train_aks-b0f4347a9b114dc8b62739f30d4e5f98",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "19 m, 48 s",
+        "Job ID": "train_aks-b0f4347a9b114dc8b62739f30d4e5f98",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "0 s",
+        "Job ID": "train_aks-4764c887b3d64122b182621ed3c625b8",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "20 m, 33 s",
+        "Job ID": "train_aks-4764c887b3d64122b182621ed3c625b8",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "0 s",
+        "Job ID": "train_aks-4764c887b3d64122b182621ed3c625b8",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "19 m, 15 s",
+        "Job ID": "train_aks-4764c887b3d64122b182621ed3c625b8",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "1 s",
+        "Job ID": "train_aks-950923c4d90f4b4381bdcd8999dbbe59",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "8 m, 40 s",
+        "Job ID": "train_aks-950923c4d90f4b4381bdcd8999dbbe59",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-950923c4d90f4b4381bdcd8999dbbe59",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "8 m, 7 s",
+        "Job ID": "train_aks-950923c4d90f4b4381bdcd8999dbbe59",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-306552fe89014965bf4ec2e91f32bedb",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "20 m, 37 s",
+        "Job ID": "train_aks-306552fe89014965bf4ec2e91f32bedb",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "1 s",
+        "Job ID": "train_aks-306552fe89014965bf4ec2e91f32bedb",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "18 m, 37 s",
+        "Job ID": "train_aks-306552fe89014965bf4ec2e91f32bedb",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "1 s",
+        "Job ID": "train_aks-d394a96160774bb3891cad39891e4306",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "8 m, 34 s",
+        "Job ID": "train_aks-d394a96160774bb3891cad39891e4306",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-d394a96160774bb3891cad39891e4306",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "8 m, 4 s",
+        "Job ID": "train_aks-d394a96160774bb3891cad39891e4306",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "0 s",
+        "Job ID": "train_aks-7709256c54384b29ab3ad2d3ddf0c495",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "20 m, 18 s",
+        "Job ID": "train_aks-7709256c54384b29ab3ad2d3ddf0c495",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "1 s",
+        "Job ID": "train_aks-7709256c54384b29ab3ad2d3ddf0c495",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "19 m, 32 s",
+        "Job ID": "train_aks-7709256c54384b29ab3ad2d3ddf0c495",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-ea654d3f67a44c10bdebc9e497c7dfd0",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "15 m, 53 s",
+        "Job ID": "train_aks-ea654d3f67a44c10bdebc9e497c7dfd0",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-ea654d3f67a44c10bdebc9e497c7dfd0",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "14 m, 41 s",
+        "Job ID": "train_aks-ea654d3f67a44c10bdebc9e497c7dfd0",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "1 s",
+        "Job ID": "train_aks-32bdfc7410014c928318cf9ece041494",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "20 m, 22 s",
+        "Job ID": "train_aks-32bdfc7410014c928318cf9ece041494",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-32bdfc7410014c928318cf9ece041494",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "19 m, 42 s",
+        "Job ID": "train_aks-32bdfc7410014c928318cf9ece041494",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "0 s",
+        "Job ID": "train_aks-3be9f83142374384804cf863c0214b3c",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "15 m, 59 s",
+        "Job ID": "train_aks-3be9f83142374384804cf863c0214b3c",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "1 s",
+        "Job ID": "train_aks-3be9f83142374384804cf863c0214b3c",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "15 m, 38 s",
+        "Job ID": "train_aks-3be9f83142374384804cf863c0214b3c",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-10070563d98146de88998b760c06189a",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "46 m, 47 s",
+        "Job ID": "train_aks-10070563d98146de88998b760c06189a",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-10070563d98146de88998b760c06189a",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "46 m, 59 s",
+        "Job ID": "train_aks-10070563d98146de88998b760c06189a",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "0 s",
+        "Job ID": "train_aks-e9f23e18c6ca4c49b949cf8a03065c39",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "20 m, 36 s",
+        "Job ID": "train_aks-e9f23e18c6ca4c49b949cf8a03065c39",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "1 s",
+        "Job ID": "train_aks-e9f23e18c6ca4c49b949cf8a03065c39",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "19 m, 11 s",
+        "Job ID": "train_aks-e9f23e18c6ca4c49b949cf8a03065c39",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-9d5bb25a6e7a4807811c96da35c49d00",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "4 m, 48 s",
+        "Job ID": "train_aks-9d5bb25a6e7a4807811c96da35c49d00",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "0 s",
+        "Job ID": "train_aks-9d5bb25a6e7a4807811c96da35c49d00",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "6 m, 25 s",
+        "Job ID": "train_aks-9d5bb25a6e7a4807811c96da35c49d00",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-9cd13531977f45ccbe017d001743cba6",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "1 m, 58 s",
+        "Job ID": "train_aks-9cd13531977f45ccbe017d001743cba6",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-9cd13531977f45ccbe017d001743cba6",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "1 m, 18 s",
+        "Job ID": "train_aks-9cd13531977f45ccbe017d001743cba6",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "0 s",
+        "Job ID": "train_aks-d78a24c4ea4041148940db10ef47436e",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "33 m, 36 s",
+        "Job ID": "train_aks-d78a24c4ea4041148940db10ef47436e",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-d78a24c4ea4041148940db10ef47436e",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-88223c49d9964bbaa58981c36cfd1cea",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "4 m, 53 s",
+        "Job ID": "train_aks-88223c49d9964bbaa58981c36cfd1cea",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-88223c49d9964bbaa58981c36cfd1cea",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "0 s",
+        "Job ID": "train_aks-c2e5288bbe684da69b88d1ddb310193b",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "3 m, 18 s",
+        "Job ID": "train_aks-c2e5288bbe684da69b88d1ddb310193b",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "0 s",
+        "Job ID": "train_aks-ffefd93babd8440ba2c3720bdd4e381e",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "3 m, 18 s",
+        "Job ID": "train_aks-ffefd93babd8440ba2c3720bdd4e381e",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-52272f9071f64bca80e395a4fb3131f6",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "30 m, 36 s",
+        "Job ID": "train_aks-52272f9071f64bca80e395a4fb3131f6",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "0 s",
+        "Job ID": "train_aks-ec9e316cdd254dd98d8c23c73bbdaa9a",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "5 m, 28 s",
+        "Job ID": "train_aks-ec9e316cdd254dd98d8c23c73bbdaa9a",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "1 s",
+        "Job ID": "train_aks-ec9e316cdd254dd98d8c23c73bbdaa9a",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-20a42e29ac2549b9857a6a00ee38a1c9",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "36 m, 33 s",
+        "Job ID": "train_aks-20a42e29ac2549b9857a6a00ee38a1c9",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-20a42e29ac2549b9857a6a00ee38a1c9",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "1 m, 16 s",
+        "Job ID": "train_aks-20a42e29ac2549b9857a6a00ee38a1c9",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "1 s",
+        "Job ID": "train_aks-77f6d51e2ce14917aa5812cf4b9746fb",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "37 m, 32 s",
+        "Job ID": "train_aks-77f6d51e2ce14917aa5812cf4b9746fb",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "0 s",
+        "Job ID": "train_aks-77f6d51e2ce14917aa5812cf4b9746fb",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "2 h, 43 m, 13 s",
+        "Job ID": "train_aks-77f6d51e2ce14917aa5812cf4b9746fb",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-dfced39d7ca94cfb92fd67dc310f6c92",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "47 m, 17 s",
+        "Job ID": "train_aks-dfced39d7ca94cfb92fd67dc310f6c92",
+        "Start Time": "Success",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "Hybrid",
+        "Elapsed Time": "27356 Components",
+        "Job ID": "train_aks-29ff647ad5c44718bda9433883e7c1a6",
+        "Start Time": "",
+        "State": "Solve",
+        "User": " Failure 6/14/2022, 11:36:09 AM ",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "30 s",
+        "Job ID": "train_aks-29ff647ad5c44718bda9433883e7c1a6",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "31 s",
+        "Job ID": "train_aks-80776ed7770849309602026b4e97c8b3",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " Not found",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "31 s",
+        "Job ID": "train_aks-ef939f823f6c42c6b2b3fedbd1fcead5",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " Not found",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "31 s",
+        "Job ID": "train_aks-51e28b66774c4c0fb39b6aabcfd5671e",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " Not found",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "Hybrid",
+        "Elapsed Time": "27352 Components",
+        "Job ID": "train_aks-ea8fa6671d54448495255293835f95e2",
+        "Start Time": "",
+        "State": "Solve",
+        "User": " Failure 5/24/2022, 5:30:41 PM 2 / 2 ",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "4 s",
+        "Job ID": "train_aks-ea8fa6671d54448495255293835f95e2",
+        "Start Time": "5/24/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-2",
+        "Elapsed Time": "8 s",
+        "Job ID": "train_aks-ea8fa6671d54448495255293835f95e2",
+        "Start Time": "5/25/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train-3",
+        "Elapsed Time": "4 h, 10 m, 14 s",
+        "Job ID": "train_aks-ea8fa6671d54448495255293835f95e2",
+        "Start Time": "5/25/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "1 s",
+        "Job ID": "train_aks-5a1c9cec137a465285c4843876294b18",
+        "Start Time": "5/24/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-f0b136c6599e49cf88b21ccc74dd6445",
+        "Start Time": "5/16/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "Hybrid",
+        "Elapsed Time": "27356 Components",
+        "Job ID": "train_aks-f0b136c6599e49cf88b21ccc74dd6445",
+        "Start Time": "",
+        "State": "Solve",
+        "User": " Success 5/16/2022, 9:56:33 AM ",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "RB-FEA",
+        "Elapsed Time": "1 h, 29 m, 10 s",
+        "Job ID": "train_aks-776fbb8609ea45eab1b631c78a5091e3",
+        "Start Time": "Failure",
+        "State": "Solve",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "compress-1",
+        "Elapsed Time": "2 s",
+        "Job ID": "train_aks-776fbb8609ea45eab1b631c78a5091e3",
+        "Start Time": "5/12/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    }
+]

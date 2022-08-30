@@ -1,0 +1,626 @@
+[
+    {
+        "Description": "train_aks-d5711a57914a44bfbf903071cc2fb1d7",
+        "Elapsed Time": "29 m, 17 s",
+        "Start Time": "6/15/2022",
+        "State": "Running",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-e1c69e69ef7d4508a58daab9edc5f094",
+        "Elapsed Time": "20 m, 49 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-46e8a8a6b7534b84b6416f9444804571",
+        "Elapsed Time": "3 s",
+        "Start Time": "6/15/2022",
+        "State": "Failure",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-29dd2b9901d047aca220e93d033094aa",
+        "Elapsed Time": "7 s",
+        "Start Time": "6/15/2022",
+        "State": "Failure",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-35f2adebd98b4442ba3e321ab4f1677e",
+        "Elapsed Time": "3 s",
+        "Start Time": "6/15/2022",
+        "State": "Failure",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-36dbfb5618eb40bfbe6b184152c24c3e",
+        "Elapsed Time": "3 s",
+        "Start Time": "6/15/2022",
+        "State": "Failure",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-d49ee8c7e92d4bdda25e1918bdb95e59",
+        "Elapsed Time": "50 m, 37 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-bab37d2ffd114d578771b683945bc9c9",
+        "Elapsed Time": "7 m, 55 s",
+        "Start Time": "6/15/2022",
+        "State": "Failure",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-f93fa7742fbe460bbc53185d82f8013a",
+        "Elapsed Time": "18 m, 0 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-f978a8aaa18f4dff940f6bf75801fc6a",
+        "Elapsed Time": "17 m, 49 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-ecd2eaf80445476593999d3f41c17bc2",
+        "Elapsed Time": "2 m, 24 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-2d7f7f23326840f3a8cd33913f08f5e3",
+        "Elapsed Time": "2 m, 7 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-faa637232fbe482391c6f979438b2d1b",
+        "Elapsed Time": "4 m, 45 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-4de11586bcfc4e7b9485d8df0a3705c5",
+        "Elapsed Time": "2 m, 9 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-8dd021c14ba147aa8f600906725b5528",
+        "Elapsed Time": "4 m, 53 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-9a9f7f471f7f4c51b1d00e1803da0161",
+        "Elapsed Time": "2 m, 6 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-07cc8f91e107441dbdda1bf058e9b881",
+        "Elapsed Time": "4 m, 52 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-0c3e26ae0172497f8836528af31d4f84",
+        "Elapsed Time": "59 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-9ff9e295dfd640cfa6ba69f4174cc0a7",
+        "Elapsed Time": "4 m, 44 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-ace08dc322b146458800ff140afaf210",
+        "Elapsed Time": "2 m, 9 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-a5085bef176e418c94aaa4b7d58dcfb2",
+        "Elapsed Time": "4 m, 49 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-f26ce79d089542beaa7f9723f12a3a94",
+        "Elapsed Time": "2 m, 3 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-c419d24e6a874bc696769397ac2aa968",
+        "Elapsed Time": "4 m, 41 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-cc603305c63d4608b2a4e5386667ac79",
+        "Elapsed Time": "2 m, 8 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-295abf018a46452cb076b6f7a971dbf5",
+        "Elapsed Time": "4 m, 50 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-71df1b24759149be9673f104d38e02ae",
+        "Elapsed Time": "2 m, 4 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-50db31cc5e2942d3be9f510a39a34931",
+        "Elapsed Time": "4 m, 40 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-1ab9977479684c4392e44d491d502ecb",
+        "Elapsed Time": "2 m, 4 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-5dd5091029584f12a9f6d497fff30ad9",
+        "Elapsed Time": "4 m, 49 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-fa1ff2f594344c3faf3e8be7429946d4",
+        "Elapsed Time": "2 m, 3 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-0a0c9bf1f43d40309b5b49fb49c17d05",
+        "Elapsed Time": "3 m, 38 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-e46846d4488d448db304f308742fdead",
+        "Elapsed Time": "4 m, 47 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-9767aa02557f45759763c7fa74bbaaa6",
+        "Elapsed Time": "3 m, 42 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-fac57eedd1474e52b9a897afbdb315ca",
+        "Elapsed Time": "4 m, 42 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-634e5212dde64b648cfdf414474bc17d",
+        "Elapsed Time": "10 m, 58 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-7a1af967c0364052b6534fd1f6f11f0d",
+        "Elapsed Time": "16 m, 43 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-a4a0d5f457374496b35c775a05528b5e",
+        "Elapsed Time": "39 m, 53 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-ccc83268d422436d91dd20a98294de83",
+        "Elapsed Time": "16 m, 49 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-0e0ebecca2d9408a9418f6c9be640adb",
+        "Elapsed Time": "40 m, 27 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-8b8ba2b180134ecf806395cd5dca43fc",
+        "Elapsed Time": "17 m, 7 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-04e3b7288b5c445692e15805b4ba6f5d",
+        "Elapsed Time": "39 m, 54 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-d2c7454b22ec4fa5aaa1bd8c1bf69aaf",
+        "Elapsed Time": "7 m, 35 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-1043f52611de49d9803757cab0a0d5cc",
+        "Elapsed Time": "39 m, 53 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-ef98a12c9ade44aa86e279fa6f0d76a4",
+        "Elapsed Time": "16 m, 52 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-9f672daee8e04ab4be26374a74e3f39d",
+        "Elapsed Time": "39 m, 55 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-e20bea6494f649ae95b79d7e27427dca",
+        "Elapsed Time": "17 m, 3 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-e1f5a73c0ac940659ac358fb074d9815",
+        "Elapsed Time": "39 m, 19 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-6452e4dae3c1483a9bb91262df2e9ef9",
+        "Elapsed Time": "17 m, 13 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-b0f4347a9b114dc8b62739f30d4e5f98",
+        "Elapsed Time": "40 m, 20 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-4764c887b3d64122b182621ed3c625b8",
+        "Elapsed Time": "39 m, 59 s",
+        "Start Time": "6/15/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-950923c4d90f4b4381bdcd8999dbbe59",
+        "Elapsed Time": "17 m, 1 s",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-306552fe89014965bf4ec2e91f32bedb",
+        "Elapsed Time": "39 m, 26 s",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-d394a96160774bb3891cad39891e4306",
+        "Elapsed Time": "16 m, 51 s",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-7709256c54384b29ab3ad2d3ddf0c495",
+        "Elapsed Time": "40 m, 1 s",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-ea654d3f67a44c10bdebc9e497c7dfd0",
+        "Elapsed Time": "30 m, 48 s",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-32bdfc7410014c928318cf9ece041494",
+        "Elapsed Time": "40 m, 16 s",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-3be9f83142374384804cf863c0214b3c",
+        "Elapsed Time": "31 m, 47 s",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-10070563d98146de88998b760c06189a",
+        "Elapsed Time": "1 h, 34 m, 0 s",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-e9f23e18c6ca4c49b949cf8a03065c39",
+        "Elapsed Time": "39 m, 59 s",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-9d5bb25a6e7a4807811c96da35c49d00",
+        "Elapsed Time": "11 m, 25 s",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-9cd13531977f45ccbe017d001743cba6",
+        "Elapsed Time": "3 m, 30 s",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-d78a24c4ea4041148940db10ef47436e",
+        "Elapsed Time": "33 m, 44 s",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-88223c49d9964bbaa58981c36cfd1cea",
+        "Elapsed Time": "5 m, 3 s",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-c2e5288bbe684da69b88d1ddb310193b",
+        "Elapsed Time": "3 m, 21 s",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-ffefd93babd8440ba2c3720bdd4e381e",
+        "Elapsed Time": "3 m, 21 s",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-52272f9071f64bca80e395a4fb3131f6",
+        "Elapsed Time": "30 m, 42 s",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-ec9e316cdd254dd98d8c23c73bbdaa9a",
+        "Elapsed Time": "5 m, 36 s",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-20a42e29ac2549b9857a6a00ee38a1c9",
+        "Elapsed Time": "38 m, 4 s",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-77f6d51e2ce14917aa5812cf4b9746fb",
+        "Elapsed Time": "3 h, 20 m, 59 s",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-dfced39d7ca94cfb92fd67dc310f6c92",
+        "Elapsed Time": "47 m, 22 s",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-29ff647ad5c44718bda9433883e7c1a6",
+        "Elapsed Time": "37 m, 53 s",
+        "Start Time": "6/14/2022",
+        "State": "Failure",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-80776ed7770849309602026b4e97c8b3",
+        "Elapsed Time": "31 s",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " Not found",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-ef939f823f6c42c6b2b3fedbd1fcead5",
+        "Elapsed Time": "31 s",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " Not found",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-51e28b66774c4c0fb39b6aabcfd5671e",
+        "Elapsed Time": "31 s",
+        "Start Time": "6/14/2022",
+        "State": "Success",
+        "User": " Not found",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-ea8fa6671d54448495255293835f95e2",
+        "Elapsed Time": "11 h, 48 m, 49 s",
+        "Start Time": "5/24/2022",
+        "State": "Failure",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-5a1c9cec137a465285c4843876294b18",
+        "Elapsed Time": "1 s",
+        "Start Time": "5/24/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-f0b136c6599e49cf88b21ccc74dd6445",
+        "Elapsed Time": "6 h, 44 s",
+        "Start Time": "5/16/2022",
+        "State": "Success",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    },
+    {
+        "Description": "train_aks-776fbb8609ea45eab1b631c78a5091e3",
+        "Elapsed Time": "1 h, 29 m, 19 s",
+        "Start Time": "5/12/2022",
+        "State": "Failure",
+        "User": " huandinh2022",
+        "collection_id": "127PB_Phase_3_full_model_v2"
+    }
+]
